@@ -59,11 +59,13 @@ class _MyAppState extends State<MyApp> {
                     height: 200,
                     width: 180,
                     color: Colors.purple,
+                    child: Icon(Icons.star, color: Colors.yellow,)
                   ),
                    Container(
                     height: 200,
                     width: 180,
                     color: Colors.yellow,
+                     child: Icon(Icons.star, color: Colors.green,)
                   )
                 ],
               ),
